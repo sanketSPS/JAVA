@@ -1,0 +1,1 @@
+class Mammal implements Animal{}
